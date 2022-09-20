@@ -2,7 +2,7 @@
 
 GAN-RoBERTa: a Robust Semi-Supervised Model for Detecting Anti-Asian COVID-19 Hate Speech on Social Media </br>
 Author: Xuanyu Su, Yansong Li, Paula Branco, and Diana Inkpen </br>
-Natural Language Engineering Journal-submitted with revision </br>
+Natural Language Engineering Journal - under revision </br>
 
 ## Introduction
 Code repository for the paper: <br/>
